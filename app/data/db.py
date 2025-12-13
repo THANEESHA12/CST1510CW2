@@ -1,3 +1,4 @@
+
 import sqlite3 #This works with the SQLite database
 from pathlib import Path #This ensures handling file paths
 
@@ -30,5 +31,3 @@ def connect_database(db_path=DB_PATH):
     conn = sqlite3.connect(str(db_path))
     print(f"Connected to database at: {db_path}")
     return conn
-
-
