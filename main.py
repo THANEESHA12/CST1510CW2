@@ -2,6 +2,15 @@ from app.data.db import connect_database
 from app.data.schema import create_all_tables
 from app.services.user_service import register_user, login_user, migrate_users_from_file
 from app.data.incidents import insert_incident, get_all_incidents
+from app.data.schema import create_cyber_incidents_table, create_datasets_metadata_table, create_it_tickets_table, create_user_table
+from app.data.schema import load_all_csv_data, create_all_tables
+from app.data.incidents import update_incident_status
+from app.data.incidents import delete_incident
+from app.data. incidents import get_incidents_by_type_count
+from app.data.incidents import get_high_severity_by_status
+import pandas as pd
+from app.data.db import DB_PATH
+from app.data.db import connect_database
 
 def main():
     print("=" * 60)
@@ -10,6 +19,7 @@ def main():
     
     # 1. Setup database
     conn = connect_database()
+
     create_all_tables(conn)
     conn.close()
     
@@ -165,4 +175,3 @@ def run_comprehensive_tests():
 
 # Run tests
 run_comprehensive_tests()
-
