@@ -1,0 +1,15 @@
+Beyonce,0,0.0
+Colleen,1,0.0
+Wicked,0,0.0
+Shaina,0,0.0
+Rayon,0,0.0
+Midair,2,0.0
+Sophia,0,0.0
+Lilly,0,0.0
+Jasmine,0,0.0
+Emily,0,0.0
+Murphy,0,0.0
+Ocean,0,0.0
+Millie,0,0.0
+Brown,0,0.0
+Norah,3,1765684724.3060443
