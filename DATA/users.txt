@@ -1,0 +1,12 @@
+Glowly,$2b$12$8hedEaAuO2lQTdPNyh05seg1tIhJgmNwjZKyAJxaV/nxxVq.5Jj2m,admin
+Brinda,$2b$12$OdBgtB7DdNnekrrGzXQx4OLW/PKyJbrxYj1ZwahV9QuRteAVptrvq,admin
+testuser,$2b$12$0B5MR8NBBrULTmDC03Pte.vRuk1cyMCHrxwJLSC9GGcf65c4cFrl2,user
+pestle,$2b$12$ayWfZZSxWnRH9EiXKo5BTuL6xtcfhPWol1RlqojCUsDWzLGuMUMma,user
+Adopt,$2b$12$J1F.sOtL5z1qbI7e0QMtxeoxoZcRZKXdP7RYGR1wV6QFAHw1JGepK,analyst
+Special,$2b$12$d.dn/aHKc9Uo8j7Iwyngn.pw8ChSRQK2fnehV7hQXaetE2HcrdRNu,analyst
+Channel,$2b$12$E0wKQ7cnOuqwspB9UT6da.KO.tCAYukkrKKS0nnxzva6.kUFYVj2G,admin
+Aneet,$2b$12$EqfC6ufkkm9fvKpvbeeaYurNNhWL9HwVqvjplI.M2VOJMfg6O57DK,admin
+Huawei,$2b$12$5hEbptiotIZeMz/KY398d.t97ivU0tRKB.fBml4yDVM6G5oNAE3um,user
+Jennifer,$2b$12$pn7TA1yGjBx9Lbb7.hYi/emt7f3jZ0MIEHl4vwghOa/TN4bW2bs1.,user
+Josina,$2b$12$4ScE/PzIDCJnza9w.6s7SuT/A6vABLEdo51g5k5hOfAlLbOSRvDfi,user
+Shaina,$2b$12$VdfYD0gkoA/EHKOzuy.9AuSaAAvT5APwiB95xKUa6SjqKpqZys2Mu,user
